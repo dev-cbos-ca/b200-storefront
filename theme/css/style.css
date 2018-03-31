@@ -1014,7 +1014,7 @@ folds match up with the number of menu items in the menu. */
 .title-wrap {
 	line-height: 1;
 	background-color: #5a92b5;
-	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
 }
 
 .title-wrap .inner {
